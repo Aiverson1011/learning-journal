@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my learning journal!
 
-You can use the [editor on GitHub](https://github.com/Aiverson1011/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Amanda Iverson. I am a software engineer. I love cats.
 
 ### Markdown
 
