@@ -6,6 +6,10 @@ My name is Amanda Iverson. I am a software engineer. I love cats. I love coffee.
 
 I am from Seattle Washington. I work as a lead instructor at Code Fellows. I get to travel around the world and hang out with cool people!
 
+My favorite quite is
+
+> INSERT QUOTE HERE
+
 ## What is a Learning Journal
 
 A learning journal is a place that i can share my thoughts on all that i've learned this week. I want to keep track and share all the content that i've learned this week. This will be a good cheat sheet for me as i learn more about software development. 
@@ -23,3 +27,4 @@ I also can use these resources to assist me in my studies:
 - Google
 - Textbooks
 - My instructors
+
