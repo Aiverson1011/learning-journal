@@ -1,35 +1,25 @@
-## Welcome to my learning journal!
+# Welcome to my learning journal!
 
-My name is Amanda Iverson. I am a software engineer. I love cats.
+## About Me
 
-### Markdown
+My name is Amanda Iverson. I am a software engineer. I love cats. I love coffee.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am from Seattle Washington. I work as a lead instructor at Code Fellows. I get to travel around the world and hang out with cool people!
 
-```markdown
-Syntax highlighted code block
+## What is a Learning Journal
 
-# Header 1
-## Header 2
-### Header 3
+A learning journal is a place that i can share my thoughts on all that i've learned this week. I want to keep track and share all the content that i've learned this week. This will be a good cheat sheet for me as i learn more about software development. 
 
-- Bulleted
-- List
+## Growth Mindset
+Growth mindset is all about determination. To me, growth mindset is never giving up and learning as much as i can from those around me. 
 
-1. Numbered
-2. List
+Here are some steps that I can accomplish with growth mindset:
 
-**Bold** and _Italic_ and `Code` text
+1. Never give up
+2. Read through my resources
+3. Ask for help
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aiverson1011/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I also can use these resources to assist me in my studies:
+- Google
+- Textbooks
+- My instructors
